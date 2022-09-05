@@ -1,0 +1,56 @@
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\Virtual Hospital System.exe.config
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\Virtual Hospital System.exe
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\Virtual Hospital System.pdb
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual Hospital System.csproj.AssemblyReference.cache
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.Form1.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.Properties.Resources.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual Hospital System.csproj.GenerateResource.cache
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual Hospital System.csproj.CoreCompileInputs.cache
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual Hospital System.exe
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual Hospital System.pdb
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.DasboardPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.RemindersPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.MeetsPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.SicksPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.PillsPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.ProfilePage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.NotesPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.SettingsPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\Database1.mdf
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\Database1_log.ldf
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AddSick.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AddReminders.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AddUser.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AddMeet.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AddPill.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AddNote.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.ReminderCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.WarningCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.MeetCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.SickCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.PillCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.SecurityCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.NoteCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.StartPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.LoginCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.RegisterCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\circle_progressbar.dll
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\CircularProgressBar.dll
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\WinFormAnimation.dll
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\CircularProgressBar.xml
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.Begin.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.ForgotPassword.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.SecurityAnswer.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.ChangePassword.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.dll
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.WinForms.dll
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.Wpf.dll
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.pdb
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.xml
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.WinForms.pdb
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.WinForms.xml
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.Wpf.pdb
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\bin\Debug\LiveCharts.Wpf.xml
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.AnalysisPage.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.DashboardMeetsCard.resources
+C:\csharp projelerim\Virtual Hospital System\Virtual Hospital System\obj\Debug\Virtual_Hospital_System.NotificationShow.resources
